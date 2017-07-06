@@ -1,0 +1,16 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://goo.gl/YqeTG"
+      },
+      "urls": [ "http://goo.gl/YqeTG" ]
+   },
+   "icons": {
+      "128": "icon.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCwnLYJAcEZUm5bLL/atL4irCgmJQ7KTtyw+emGRoM0aQqqm3rlQAQ9agIpzW5sMCwQRiAlg65qDVKkwre+wjYOGsgsXTrLu+RdVokNF1pRl6B73vUTdfa8I/9YgvPhKs4+80t5y3k/eoiAYDXknKF+l6ncSznDWp2AbWFe9rMcVQIDAQAB",
+   "manifest_version": 2,
+   "name": "iCloud",
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.2.2"
+}
