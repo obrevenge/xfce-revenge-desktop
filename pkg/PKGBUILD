@@ -1,7 +1,7 @@
 # Maintainer: Jody James <ajjames31@gmail.com>
 
 pkgname=xfce-revenge-desktop
-pkgver=1.00
+pkgver=1.01
 pkgrel=1
 pkgdesc="Desktop Meta-Package for XFCE Revenge"
 arch=('any')
